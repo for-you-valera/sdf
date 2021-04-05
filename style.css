@@ -1,0 +1,16 @@
+body {
+    background-color: pink;
+    color: green;
+    font-size: 50px;
+    
+}
+a {
+   color: green
+}
+
+   
+img {
+   width:500px;
+   border: 5px dotted green;
+   border-radius: 10%;
+}
